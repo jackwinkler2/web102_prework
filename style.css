@@ -79,3 +79,9 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+    color:blue;
+}
